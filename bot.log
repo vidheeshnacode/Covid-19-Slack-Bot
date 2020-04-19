@@ -1,0 +1,453 @@
+[2020-04-18 04:33:19,551] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 04:33:22,378] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17092
+[2020-04-18 04:33:22,519] oops, corono script failed.
+Traceback (most recent call last):
+  File "C:\Users\vidhe\Downloads\coronavirus-bot-tracker-master\coronavirus-bot-tracker-master\corona_bot.py", line 55, in <module>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+  File "C:\Users\vidhe\Downloads\coronavirus-bot-tracker-master\coronavirus-bot-tracker-master\corona_bot.py", line 55, in <listcomp>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+IndexError: list index out of range
+[2020-04-18 04:33:22,519] Sending Exception occured: [list index out of range] to slack
+[2020-04-18 04:33:22,519] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-04-18 04:33:23,550] https://hooks.slack.com:443 "POST /services/T0122MJJT4J/B0122N1E60J/MyfSJcwqbtCjDacPQWYirtos HTTP/1.1" 200 22
+[2020-04-18 04:39:33,101] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 04:39:33,490] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17092
+[2020-04-18 04:39:33,621] oops, corono script failed.
+Traceback (most recent call last):
+  File "C:\Users\vidhe\Downloads\coronavirus-bot-tracker-master\coronavirus-bot-tracker-master\corona_bot.py", line 55, in <module>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+  File "C:\Users\vidhe\Downloads\coronavirus-bot-tracker-master\coronavirus-bot-tracker-master\corona_bot.py", line 55, in <listcomp>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+IndexError: list index out of range
+[2020-04-18 04:39:33,621] Sending Exception occured: [list index out of range] to slack
+[2020-04-18 04:39:33,637] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-04-18 04:39:34,941] https://hooks.slack.com:443 "POST /services/T0122MJJT4J/B0122N1E60J/MyfSJcwqbtCjDacPQWYirtos HTTP/1.1" 200 22
+[2020-04-18 05:06:01,615] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 05:06:04,039] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17092
+[2020-04-18 05:06:04,208] oops, corono script failed.
+Traceback (most recent call last):
+  File "C:\Users\vidhe\Downloads\coronavirus-bot-tracker-master\coronavirus-bot-tracker-master\corona_bot.py", line 55, in <module>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+  File "C:\Users\vidhe\Downloads\coronavirus-bot-tracker-master\coronavirus-bot-tracker-master\corona_bot.py", line 55, in <listcomp>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+IndexError: list index out of range
+[2020-04-18 05:06:04,208] Sending Exception occured: [list index out of range] to slack
+[2020-04-18 05:06:04,208] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-04-18 05:06:05,096] https://hooks.slack.com:443 "POST /services/T0122MJJT4J/B0122N1E60J/MyfSJcwqbtCjDacPQWYirtos HTTP/1.1" 200 22
+[2020-04-18 05:07:55,117] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 05:07:55,364] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17089
+[2020-04-18 05:07:55,487] oops, corono script failed.
+Traceback (most recent call last):
+  File "C:\Users\vidhe\Downloads\coronavirus-bot-tracker-master\coronavirus-bot-tracker-master\corona_bot.py", line 55, in <module>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+  File "C:\Users\vidhe\Downloads\coronavirus-bot-tracker-master\coronavirus-bot-tracker-master\corona_bot.py", line 55, in <listcomp>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+IndexError: list index out of range
+[2020-04-18 05:07:55,487] Sending Exception occured: [list index out of range] to slack
+[2020-04-18 05:07:55,502] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-04-18 05:07:56,400] https://hooks.slack.com:443 "POST /services/T0122MJJT4J/B0122N1E60J/MyfSJcwqbtCjDacPQWYirtos HTTP/1.1" 200 22
+[2020-04-18 05:09:56,311] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 05:09:56,593] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17089
+[2020-04-18 05:09:56,731] oops, corono script failed.
+Traceback (most recent call last):
+  File "C:\Users\vidhe\Downloads\coronavirus-bot-tracker-master\coronavirus-bot-tracker-master\corona_bot.py", line 55, in <module>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+  File "C:\Users\vidhe\Downloads\coronavirus-bot-tracker-master\coronavirus-bot-tracker-master\corona_bot.py", line 55, in <listcomp>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+IndexError: list index out of range
+[2020-04-18 05:09:56,747] Sending Exception occured: [list index out of range] to slack
+[2020-04-18 05:09:56,747] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-04-18 05:09:57,672] https://hooks.slack.com:443 "POST /services/T0122MJJT4J/B0122N1E60J/MyfSJcwqbtCjDacPQWYirtos HTTP/1.1" 200 22
+[2020-04-18 05:10:57,936] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 05:10:58,268] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17094
+[2020-04-18 05:10:58,384] oops, corono script failed.
+Traceback (most recent call last):
+  File "C:\Users\vidhe\Downloads\coronavirus-bot-tracker-master\coronavirus-bot-tracker-master\corona_bot.py", line 55, in <module>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+  File "C:\Users\vidhe\Downloads\coronavirus-bot-tracker-master\coronavirus-bot-tracker-master\corona_bot.py", line 55, in <listcomp>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+IndexError: list index out of range
+[2020-04-18 05:10:58,400] Sending Exception occured: [list index out of range] to slack
+[2020-04-18 05:10:58,400] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-04-18 05:10:59,140] https://hooks.slack.com:443 "POST /services/T0122MJJT4J/B0122N1E60J/MyfSJcwqbtCjDacPQWYirtos HTTP/1.1" 200 22
+[2020-04-18 05:14:45,926] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 05:14:46,227] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17087
+[2020-04-18 05:14:46,381] oops, corono script failed.
+Traceback (most recent call last):
+  File "corona_bot.py", line 55, in <module>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+  File "corona_bot.py", line 55, in <listcomp>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+IndexError: list index out of range
+[2020-04-18 05:14:46,381] Sending Exception occured: [list index out of range] to slack
+[2020-04-18 05:14:46,381] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-04-18 05:14:47,279] https://hooks.slack.com:443 "POST /services/T0122MJJT4J/B0122N1E60J/MyfSJcwqbtCjDacPQWYirtos HTTP/1.1" 200 22
+[2020-04-18 05:21:34,207] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 05:21:34,515] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17090
+[2020-04-18 05:21:34,658] oops, corono script failed.
+Traceback (most recent call last):
+  File "corona_bot.py", line 55, in <module>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+  File "corona_bot.py", line 55, in <listcomp>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+IndexError: list index out of range
+[2020-04-18 05:23:04,665] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 05:23:04,964] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17088
+[2020-04-18 05:23:05,101] oops, corono script failed.
+Traceback (most recent call last):
+  File "corona_bot.py", line 55, in <module>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+  File "corona_bot.py", line 55, in <listcomp>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+IndexError: list index out of range
+[2020-04-18 05:23:05,101] Sending Exception occured: [list index out of range] to slack
+[2020-04-18 05:23:05,101] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-04-18 05:23:05,822] https://hooks.slack.com:443 "POST /services/T0122MJJT4J/B0122N1E60J/MyfSJcwqbtCjDacPQWYirtos HTTP/1.1" 200 22
+[2020-04-18 05:47:01,974] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 05:47:02,621] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17088
+[2020-04-18 05:47:02,806] oops, corono script failed.
+Traceback (most recent call last):
+  File "corona_bot.py", line 55, in <module>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+  File "corona_bot.py", line 55, in <listcomp>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+IndexError: list index out of range
+[2020-04-18 05:47:02,806] Sending Exception occured: [list index out of range] to slack
+[2020-04-18 05:47:02,806] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-04-18 05:47:03,577] https://hooks.slack.com:443 "POST /services/T0122MJJT4J/B0122N1E60J/MyfSJcwqbtCjDacPQWYirtos HTTP/1.1" 200 22
+[2020-04-18 05:48:47,447] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 05:48:47,736] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17091
+[2020-04-18 05:48:47,904] NEW_STATE 1 got corona virus: ['Andaman and Nicobar Islands', '11', '10', '0']
+[2020-04-18 05:48:47,904] NEW_STATE 2 got corona virus: ['Andhra Pradesh', '572', '36', '14']
+[2020-04-18 05:48:47,904] NEW_STATE 3 got corona virus: ['Arunachal Pradesh', '1', '0', '0']
+[2020-04-18 05:48:47,904] NEW_STATE 4 got corona virus: ['Assam', '35', '5', '1']
+[2020-04-18 05:48:47,904] NEW_STATE 5 got corona virus: ['Bihar', '83', '37', '1']
+[2020-04-18 05:48:47,904] NEW_STATE 6 got corona virus: ['Chandigarh', '21', '9', '0']
+[2020-04-18 05:48:47,904] NEW_STATE 7 got corona virus: ['Chhattisgarh', '36', '23', '0']
+[2020-04-18 05:48:47,904] NEW_STATE 8 got corona virus: ['Delhi', '1640', '51', '38']
+[2020-04-18 05:48:47,904] NEW_STATE 9 got corona virus: ['Goa', '7', '6', '0']
+[2020-04-18 05:48:47,904] NEW_STATE 10 got corona virus: ['Gujarat', '1021', '74', '38']
+[2020-04-18 05:48:47,904] NEW_STATE 11 got corona virus: ['Haryana', '205', '43', '3']
+[2020-04-18 05:48:47,904] NEW_STATE 12 got corona virus: ['Himachal Pradesh', '35', '16', '1']
+[2020-04-18 05:48:47,904] NEW_STATE 13 got corona virus: ['Jammu and Kashmir', '314', '38', '4']
+[2020-04-18 05:48:47,904] NEW_STATE 14 got corona virus: ['Jharkhand', '29', '0', '2']
+[2020-04-18 05:48:47,904] NEW_STATE 15 got corona virus: ['Karnataka', '353', '82', '13']
+[2020-04-18 05:48:47,904] NEW_STATE 16 got corona virus: ['Kerala', '395', '245', '3']
+[2020-04-18 05:48:47,904] NEW_STATE 17 got corona virus: ['Ladakh', '18', '14', '0']
+[2020-04-18 05:48:47,904] NEW_STATE 18 got corona virus: ['Madhya Pradesh', '1308', '65', '57']
+[2020-04-18 05:48:47,904] NEW_STATE 19 got corona virus: ['Maharashtra', '3205', '300', '194']
+[2020-04-18 05:48:47,904] NEW_STATE 20 got corona virus: ['Manipur', '2', '1', '0']
+[2020-04-18 05:48:47,904] NEW_STATE 21 got corona virus: ['Meghalaya', '9', '0', '1']
+[2020-04-18 05:48:47,904] NEW_STATE 22 got corona virus: ['Mizoram', '1', '0', '0']
+[2020-04-18 05:48:47,904] NEW_STATE 23 got corona virus: ['Nagaland#', '0', '0', '0']
+[2020-04-18 05:48:47,904] NEW_STATE 24 got corona virus: ['Odisha', '60', '19', '1']
+[2020-04-18 05:48:47,904] NEW_STATE 25 got corona virus: ['Puducherry', '7', '1', '0']
+[2020-04-18 05:48:47,909] NEW_STATE 26 got corona virus: ['Punjab', '186', '27', '13']
+[2020-04-18 05:48:47,909] NEW_STATE 27 got corona virus: ['Rajasthan', '1131', '164', '11']
+[2020-04-18 05:48:47,909] NEW_STATE 28 got corona virus: ['Tamil Nadu', '1267', '180', '15']
+[2020-04-18 05:48:47,909] NEW_STATE 29 got corona virus: ['Telengana', '743', '186', '18']
+[2020-04-18 05:48:47,909] NEW_STATE 30 got corona virus: ['Tripura', '2', '1', '0']
+[2020-04-18 05:48:47,909] NEW_STATE 31 got corona virus: ['Uttarakhand', '37', '9', '0']
+[2020-04-18 05:48:47,909] NEW_STATE 32 got corona virus: ['West Bengal', '255', '51', '10']
+[2020-04-18 05:48:47,940] Sending Please find CoronaVirus Summary for India below:
+
+ - NEW_STATE 1 got corona virus: [Andaman and Nicobar Islands, 11, 10, 0]
+ - NEW_STATE 2 got corona virus: [Andhra Pradesh, 572, 36, 14]
+ - NEW_STATE 3 got corona virus: [Arunachal Pradesh, 1, 0, 0]
+ - NEW_STATE 4 got corona virus: [Assam, 35, 5, 1]
+ - NEW_STATE 5 got corona virus: [Bihar, 83, 37, 1]
+ - NEW_STATE 6 got corona virus: [Chandigarh, 21, 9, 0]
+ - NEW_STATE 7 got corona virus: [Chhattisgarh, 36, 23, 0]
+ - NEW_STATE 8 got corona virus: [Delhi, 1640, 51, 38]
+ - NEW_STATE 9 got corona virus: [Goa, 7, 6, 0]
+ - NEW_STATE 10 got corona virus: [Gujarat, 1021, 74, 38]
+ - NEW_STATE 11 got corona virus: [Haryana, 205, 43, 3]
+ - NEW_STATE 12 got corona virus: [Himachal Pradesh, 35, 16, 1]
+ - NEW_STATE 13 got corona virus: [Jammu and Kashmir, 314, 38, 4]
+ - NEW_STATE 14 got corona virus: [Jharkhand, 29, 0, 2]
+ - NEW_STATE 15 got corona virus: [Karnataka, 353, 82, 13]
+ - NEW_STATE 16 got corona virus: [Kerala, 395, 245, 3]
+ - NEW_STATE 17 got corona virus: [Ladakh, 18, 14, 0]
+ - NEW_STATE 18 got corona virus: [Madhya Pradesh, 1308, 65, 57]
+ - NEW_STATE 19 got corona virus: [Maharashtra, 3205, 300, 194]
+ - NEW_STATE 20 got corona virus: [Manipur, 2, 1, 0]
+ - NEW_STATE 21 got corona virus: [Meghalaya, 9, 0, 1]
+ - NEW_STATE 22 got corona virus: [Mizoram, 1, 0, 0]
+ - NEW_STATE 23 got corona virus: [Nagaland#, 0, 0, 0]
+ - NEW_STATE 24 got corona virus: [Odisha, 60, 19, 1]
+ - NEW_STATE 25 got corona virus: [Puducherry, 7, 1, 0]
+ - NEW_STATE 26 got corona virus: [Punjab, 186, 27, 13]
+ - NEW_STATE 27 got corona virus: [Rajasthan, 1131, 164, 11]
+ - NEW_STATE 28 got corona virus: [Tamil Nadu, 1267, 180, 15]
+ - NEW_STATE 29 got corona virus: [Telengana, 743, 186, 18]
+ - NEW_STATE 30 got corona virus: [Tripura, 2, 1, 0]
+ - NEW_STATE 31 got corona virus: [Uttarakhand, 37, 9, 0]
+ - NEW_STATE 32 got corona virus: [West Bengal, 255, 51, 10]
+```+----+-------+-----------------------------+------+------+------+
+|    |   Sno | State                       |   In |   Cd |   Dt |
+|----+-------+-----------------------------+------+------+------|
+|    |     1 | Andaman and Nicobar Islands |   11 |   10 |    0 |
+|    |     2 | Andhra Pradesh              |  572 |   36 |   14 |
+|    |     3 | Arunachal Pradesh           |    1 |    0 |    0 |
+|    |     4 | Assam                       |   35 |    5 |    1 |
+|    |     5 | Bihar                       |   83 |   37 |    1 |
+|    |     6 | Chandigarh                  |   21 |    9 |    0 |
+|    |     7 | Chhattisgarh                |   36 |   23 |    0 |
+|    |     8 | Delhi                       | 1640 |   51 |   38 |
+|    |     9 | Goa                         |    7 |    6 |    0 |
+|    |    10 | Gujarat                     | 1021 |   74 |   38 |
+|    |    11 | Haryana                     |  205 |   43 |    3 |
+|    |    12 | Himachal Pradesh            |   35 |   16 |    1 |
+|    |    13 | Jammu and Kashmir           |  314 |   38 |    4 |
+|    |    14 | Jharkhand                   |   29 |    0 |    2 |
+|    |    15 | Karnataka                   |  353 |   82 |   13 |
+|    |    16 | Kerala                      |  395 |  245 |    3 |
+|    |    17 | Ladakh                      |   18 |   14 |    0 |
+|    |    18 | Madhya Pradesh              | 1308 |   65 |   57 |
+|    |    19 | Maharashtra                 | 3205 |  300 |  194 |
+|    |    20 | Manipur                     |    2 |    1 |    0 |
+|    |    21 | Meghalaya                   |    9 |    0 |    1 |
+|    |    22 | Mizoram                     |    1 |    0 |    0 |
+|    |    23 | Nagaland#                   |    0 |    0 |    0 |
+|    |    24 | Odisha                      |   60 |   19 |    1 |
+|    |    25 | Puducherry                  |    7 |    1 |    0 |
+|    |    26 | Punjab                      |  186 |   27 |   13 |
+|    |    27 | Rajasthan                   | 1131 |  164 |   11 |
+|    |    28 | Tamil Nadu                  | 1267 |  180 |   15 |
+|    |    29 | Telengana                   |  743 |  186 |   18 |
+|    |    30 | Tripura                     |    2 |    1 |    0 |
+|    |    31 | Uttarakhand                 |   37 |    9 |    0 |
+|    |    32 | Uttar Pradesh               |  846 |   74 |   14 |
+|    |    32 | West Bengal                 |  255 |   51 |   10 |
++----+-------+-----------------------------+------+------+------+``` to slack
+[2020-04-18 05:48:47,940] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-04-18 05:48:48,858] https://hooks.slack.com:443 "POST /services/T0122MJJT4J/B0122N1E60J/MyfSJcwqbtCjDacPQWYirtos HTTP/1.1" 200 22
+[2020-04-18 05:49:45,871] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 05:49:46,172] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17090
+[2020-04-18 05:50:43,309] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 05:50:43,636] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17085
+[2020-04-18 05:51:23,742] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 05:51:24,446] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17088
+[2020-04-18 05:51:36,482] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 05:51:36,698] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17090
+[2020-04-18 05:53:07,617] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 05:53:07,911] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17090
+[2020-04-18 05:53:08,018] oops, corono script failed.
+Traceback (most recent call last):
+  File "C:\Users\vidhe\Downloads\coronavirus-bot-tracker-master\coronavirus-bot-tracker-master\corona_bot.py", line 55, in <module>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+  File "C:\Users\vidhe\Downloads\coronavirus-bot-tracker-master\coronavirus-bot-tracker-master\corona_bot.py", line 55, in <listcomp>
+    elif any([s.lower() in stat[1].lower() for s in interested_states]):
+IndexError: list index out of range
+[2020-04-18 05:53:08,018] Sending Exception occured: [list index out of range] to slack
+[2020-04-18 05:53:08,033] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-04-18 05:53:09,016] https://hooks.slack.com:443 "POST /services/T0122MJJT4J/B0122N1E60J/MyfSJcwqbtCjDacPQWYirtos HTTP/1.1" 200 22
+[2020-04-18 05:53:27,193] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 05:53:27,441] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17090
+[2020-04-18 05:53:41,467] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 05:53:41,724] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17088
+[2020-04-18 05:55:03,806] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 05:55:04,107] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17090
+[2020-04-18 05:55:43,438] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 05:55:43,723] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17089
+[2020-04-18 05:55:43,877] Change for Total number of confirmed cases in India: ['141', '25', '15', '3']->['13835*', '1767', '452']
+[2020-04-18 05:55:43,877] Sending Please find CoronaVirus Summary for India below:
+
+ - Change for Total number of confirmed cases in India: [141, 25, 15, 3]->[13835*, 1767, 452]
+```+-------+------------------------------------------+--------+------+------+
+| Sno   | State                                    | In     |   Cd |   Dt |
+|-------+------------------------------------------+--------+------+------|
+|       | Total number of confirmed cases in India | 13835* | 1767 |  452 |
++-------+------------------------------------------+--------+------+------+``` to slack
+[2020-04-18 05:55:43,877] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-04-18 05:55:44,845] https://hooks.slack.com:443 "POST /services/T0122MJJT4J/B0122N1E60J/MyfSJcwqbtCjDacPQWYirtos HTTP/1.1" 200 22
+[2020-04-18 05:56:45,923] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 05:56:46,186] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17091
+[2020-04-18 05:57:06,245] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 05:57:06,562] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17088
+[2020-04-18 06:01:19,372] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 06:01:19,650] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17084
+[2020-04-18 06:01:30,847] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 06:01:31,098] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17088
+[2020-04-18 06:01:43,398] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 06:01:43,715] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17089
+[2020-04-18 06:01:59,552] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 06:01:59,841] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17081
+[2020-04-18 06:04:10,176] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 06:04:10,504] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17094
+[2020-04-18 22:39:55,240] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 22:39:55,740] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17561
+[2020-04-18 22:39:56,271] Change for 1: ['Andaman and Nicobar Islands', '11', '10', '0']->['Andaman and Nicobar Islands', '12', '11', '0']
+[2020-04-18 22:39:56,271] Change for 2: ['Andhra Pradesh', '572', '36', '14']->['Andhra Pradesh', '603', '42', '15']
+[2020-04-18 22:39:56,271] Change for 4: ['Assam', '35', '5', '1']->['Assam', '35', '9', '1']
+[2020-04-18 22:39:56,271] Change for 5: ['Bihar', '83', '37', '1']->['Bihar', '85', '37', '2']
+[2020-04-18 22:39:56,271] Change for 7: ['Chhattisgarh', '36', '23', '0']->['Chhattisgarh', '36', '24', '0']
+[2020-04-18 22:39:56,271] Change for 8: ['Delhi', '1640', '51', '38']->['Delhi', '1707', '72', '42']
+[2020-04-18 22:39:56,271] Change for 10: ['Gujarat', '1021', '74', '38']->['Gujarat', '1272', '88', '48']
+[2020-04-18 22:39:56,271] Change for 11: ['Haryana', '205', '43', '3']->['Haryana', '225', '43', '3']
+[2020-04-18 22:39:56,271] Change for 12: ['Himachal Pradesh', '35', '16', '1']->['Himachal Pradesh', '38', '16', '1']
+[2020-04-18 22:39:56,271] Change for 13: ['Jammu and Kashmir', '314', '38', '4']->['Jammu and Kashmir', '328', '42', '5']
+[2020-04-18 22:39:56,271] Change for 14: ['Jharkhand', '29', '0', '2']->['Jharkhand', '33', '0', '2']
+[2020-04-18 22:39:56,271] Change for 15: ['Karnataka', '353', '82', '13']->['Karnataka', '371', '92', '13']
+[2020-04-18 22:39:56,271] Change for 16: ['Kerala', '395', '245', '3']->['Kerala', '396', '255', '3']
+[2020-04-18 22:39:56,271] Change for 18: ['Madhya Pradesh', '1308', '65', '57']->['Madhya Pradesh', '1355', '69', '69']
+[2020-04-18 22:39:56,271] Change for 19: ['Maharashtra', '3205', '300', '194']->['Maharashtra', '3323', '331', '201']
+[2020-04-18 22:39:56,271] Change for 21: ['Meghalaya', '9', '0', '1']->['Meghalaya', '11', '0', '1']
+[2020-04-18 22:39:56,271] Change for 24: ['Odisha', '60', '19', '1']->['Odisha', '60', '21', '1']
+[2020-04-18 22:39:56,271] Change for 25: ['Puducherry', '7', '1', '0']->['Puducherry', '7', '3', '0']
+[2020-04-18 22:39:56,271] Change for 26: ['Punjab', '186', '27', '13']->['Punjab', '202', '27', '13']
+[2020-04-18 22:39:56,271] Change for 27: ['Rajasthan', '1131', '164', '11']->['Rajasthan', '1229', '183', '11']
+[2020-04-18 22:39:56,271] Change for 28: ['Tamil Nadu', '1267', '180', '15']->['Tamil Nadu', '1323', '283', '15']
+[2020-04-18 22:39:56,287] Change for 29: ['Telengana', '743', '186', '18']->['Telengana', '791', '186', '18']
+[2020-04-18 22:39:56,287] Change for 31: ['Uttarakhand', '37', '9', '0']->['Uttarakhand', '42', '9', '0']
+[2020-04-18 22:39:56,287] Change for 32: ['West Bengal', '255', '51', '10']->['West Bengal', '287', '55', '10']
+[2020-04-18 22:39:56,302] Sending Please find CoronaVirus Summary for India below:
+
+ - Change for 1: [Andaman and Nicobar Islands, 11, 10, 0]->[Andaman and Nicobar Islands, 12, 11, 0]
+ - Change for 2: [Andhra Pradesh, 572, 36, 14]->[Andhra Pradesh, 603, 42, 15]
+ - Change for 4: [Assam, 35, 5, 1]->[Assam, 35, 9, 1]
+ - Change for 5: [Bihar, 83, 37, 1]->[Bihar, 85, 37, 2]
+ - Change for 7: [Chhattisgarh, 36, 23, 0]->[Chhattisgarh, 36, 24, 0]
+ - Change for 8: [Delhi, 1640, 51, 38]->[Delhi, 1707, 72, 42]
+ - Change for 10: [Gujarat, 1021, 74, 38]->[Gujarat, 1272, 88, 48]
+ - Change for 11: [Haryana, 205, 43, 3]->[Haryana, 225, 43, 3]
+ - Change for 12: [Himachal Pradesh, 35, 16, 1]->[Himachal Pradesh, 38, 16, 1]
+ - Change for 13: [Jammu and Kashmir, 314, 38, 4]->[Jammu and Kashmir, 328, 42, 5]
+ - Change for 14: [Jharkhand, 29, 0, 2]->[Jharkhand, 33, 0, 2]
+ - Change for 15: [Karnataka, 353, 82, 13]->[Karnataka, 371, 92, 13]
+ - Change for 16: [Kerala, 395, 245, 3]->[Kerala, 396, 255, 3]
+ - Change for 18: [Madhya Pradesh, 1308, 65, 57]->[Madhya Pradesh, 1355, 69, 69]
+ - Change for 19: [Maharashtra, 3205, 300, 194]->[Maharashtra, 3323, 331, 201]
+ - Change for 21: [Meghalaya, 9, 0, 1]->[Meghalaya, 11, 0, 1]
+ - Change for 24: [Odisha, 60, 19, 1]->[Odisha, 60, 21, 1]
+ - Change for 25: [Puducherry, 7, 1, 0]->[Puducherry, 7, 3, 0]
+ - Change for 26: [Punjab, 186, 27, 13]->[Punjab, 202, 27, 13]
+ - Change for 27: [Rajasthan, 1131, 164, 11]->[Rajasthan, 1229, 183, 11]
+ - Change for 28: [Tamil Nadu, 1267, 180, 15]->[Tamil Nadu, 1323, 283, 15]
+ - Change for 29: [Telengana, 743, 186, 18]->[Telengana, 791, 186, 18]
+ - Change for 31: [Uttarakhand, 37, 9, 0]->[Uttarakhand, 42, 9, 0]
+ - Change for 32: [West Bengal, 255, 51, 10]->[West Bengal, 287, 55, 10]
+```+----+-------+-----------------------------+------+------+------+
+|    |   Sno | State                       |   In |   Cd |   Dt |
+|----+-------+-----------------------------+------+------+------|
+|    |     1 | Andaman and Nicobar Islands |   12 |   11 |    0 |
+|    |     2 | Andhra Pradesh              |  603 |   42 |   15 |
+|    |     3 | Arunachal Pradesh           |    1 |    0 |    0 |
+|    |     4 | Assam                       |   35 |    9 |    1 |
+|    |     5 | Bihar                       |   85 |   37 |    2 |
+|    |     6 | Chandigarh                  |   21 |    9 |    0 |
+|    |     7 | Chhattisgarh                |   36 |   24 |    0 |
+|    |     8 | Delhi                       | 1707 |   72 |   42 |
+|    |     9 | Goa                         |    7 |    6 |    0 |
+|    |    10 | Gujarat                     | 1272 |   88 |   48 |
+|    |    11 | Haryana                     |  225 |   43 |    3 |
+|    |    12 | Himachal Pradesh            |   38 |   16 |    1 |
+|    |    13 | Jammu and Kashmir           |  328 |   42 |    5 |
+|    |    14 | Jharkhand                   |   33 |    0 |    2 |
+|    |    15 | Karnataka                   |  371 |   92 |   13 |
+|    |    16 | Kerala                      |  396 |  255 |    3 |
+|    |    17 | Ladakh                      |   18 |   14 |    0 |
+|    |    18 | Madhya Pradesh              | 1355 |   69 |   69 |
+|    |    19 | Maharashtra                 | 3323 |  331 |  201 |
+|    |    20 | Manipur                     |    2 |    1 |    0 |
+|    |    21 | Meghalaya                   |   11 |    0 |    1 |
+|    |    22 | Mizoram                     |    1 |    0 |    0 |
+|    |    23 | Nagaland#                   |    0 |    0 |    0 |
+|    |    24 | Odisha                      |   60 |   21 |    1 |
+|    |    25 | Puducherry                  |    7 |    3 |    0 |
+|    |    26 | Punjab                      |  202 |   27 |   13 |
+|    |    27 | Rajasthan                   | 1229 |  183 |   11 |
+|    |    28 | Tamil Nadu                  | 1323 |  283 |   15 |
+|    |    29 | Telengana                   |  791 |  186 |   18 |
+|    |    30 | Tripura                     |    2 |    1 |    0 |
+|    |    31 | Uttarakhand                 |   42 |    9 |    0 |
+|    |    32 | Uttar Pradesh               |  969 |   86 |   14 |
+|    |    32 | West Bengal                 |  287 |   55 |   10 |
++----+-------+-----------------------------+------+------+------+``` to slack
+[2020-04-18 22:39:56,302] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-04-18 22:39:57,255] https://hooks.slack.com:443 "POST /services/T0122MJJT4J/B0122N1E60J/MyfSJcwqbtCjDacPQWYirtos HTTP/1.1" 200 22
+[2020-04-18 22:41:00,497] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-18 22:41:01,435] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17549
+[2020-04-19 20:21:11,935] Starting new HTTPS connection (1): www.mohfw.gov.in:443
+[2020-04-19 20:21:14,372] https://www.mohfw.gov.in:443 "GET / HTTP/1.1" 200 17673
+[2020-04-19 20:21:14,513] Change for 1: ['Andaman and Nicobar Islands', '12', '11', '0']->['Andaman and Nicobar Islands', '14', '11', '0']
+[2020-04-19 20:21:14,513] Change for 4: ['Assam', '35', '9', '1']->['Assam', '35', '12', '1']
+[2020-04-19 20:21:14,513] Change for 5: ['Bihar', '85', '37', '2']->['Bihar', '86', '37', '2']
+[2020-04-19 20:21:14,513] Change for 6: ['Chandigarh', '21', '9', '0']->['Chandigarh', '23', '10', '0']
+[2020-04-19 20:21:14,513] Change for 8: ['Delhi', '1707', '72', '42']->['Delhi', '1893', '72', '43']
+[2020-04-19 20:21:14,513] Change for 10: ['Gujarat', '1272', '88', '48']->['Gujarat', '1604', '94', '58']
+[2020-04-19 20:21:14,513] Change for 11: ['Haryana', '225', '43', '3']->['Haryana', '233', '87', '3']
+[2020-04-19 20:21:14,513] Change for 12: ['Himachal Pradesh', '38', '16', '1']->['Himachal Pradesh', '39', '16', '1']
+[2020-04-19 20:21:14,513] Change for 13: ['Jammu and Kashmir', '328', '42', '5']->['Jammu and Kashmir', '341', '51', '5']
+[2020-04-19 20:21:14,513] Change for 14: ['Jharkhand', '33', '0', '2']->['Jharkhand', '35', '0', '2']
+[2020-04-19 20:21:14,513] Change for 15: ['Karnataka', '371', '92', '13']->['Karnataka', '384', '104', '14']
+[2020-04-19 20:21:14,513] Change for 16: ['Kerala', '396', '255', '3']->['Kerala', '400', '257', '3']
+[2020-04-19 20:21:14,513] Change for 18: ['Madhya Pradesh', '1355', '69', '69']->['Madhya Pradesh', '1407', '127', '70']
+[2020-04-19 20:21:14,513] Change for 19: ['Maharashtra', '3323', '331', '201']->['Maharashtra', '3651', '365', '211']
+[2020-04-19 20:21:14,513] Change for 24: ['Odisha', '60', '21', '1']->['Odisha', '61', '24', '1']
+[2020-04-19 20:21:14,513] Change for 26: ['Punjab', '202', '27', '13']->['Punjab', '219', '31', '16']
+[2020-04-19 20:21:14,513] Change for 27: ['Rajasthan', '1229', '183', '11']->['Rajasthan', '1351', '183', '11']
+[2020-04-19 20:21:14,513] Change for 28: ['Tamil Nadu', '1323', '283', '15']->['Tamil Nadu', '1372', '365', '15']
+[2020-04-19 20:21:14,513] Change for 29: ['Telengana', '791', '186', '18']->['Telengana', '844', '186', '18']
+[2020-04-19 20:21:14,513] Change for 32: ['West Bengal', '287', '55', '10']->['West Bengal', '310', '62', '12']
+[2020-04-19 20:21:14,528] Sending Please find CoronaVirus Summary for India below:
+
+ - Change for 1: [Andaman and Nicobar Islands, 12, 11, 0]->[Andaman and Nicobar Islands, 14, 11, 0]
+ - Change for 4: [Assam, 35, 9, 1]->[Assam, 35, 12, 1]
+ - Change for 5: [Bihar, 85, 37, 2]->[Bihar, 86, 37, 2]
+ - Change for 6: [Chandigarh, 21, 9, 0]->[Chandigarh, 23, 10, 0]
+ - Change for 8: [Delhi, 1707, 72, 42]->[Delhi, 1893, 72, 43]
+ - Change for 10: [Gujarat, 1272, 88, 48]->[Gujarat, 1604, 94, 58]
+ - Change for 11: [Haryana, 225, 43, 3]->[Haryana, 233, 87, 3]
+ - Change for 12: [Himachal Pradesh, 38, 16, 1]->[Himachal Pradesh, 39, 16, 1]
+ - Change for 13: [Jammu and Kashmir, 328, 42, 5]->[Jammu and Kashmir, 341, 51, 5]
+ - Change for 14: [Jharkhand, 33, 0, 2]->[Jharkhand, 35, 0, 2]
+ - Change for 15: [Karnataka, 371, 92, 13]->[Karnataka, 384, 104, 14]
+ - Change for 16: [Kerala, 396, 255, 3]->[Kerala, 400, 257, 3]
+ - Change for 18: [Madhya Pradesh, 1355, 69, 69]->[Madhya Pradesh, 1407, 127, 70]
+ - Change for 19: [Maharashtra, 3323, 331, 201]->[Maharashtra, 3651, 365, 211]
+ - Change for 24: [Odisha, 60, 21, 1]->[Odisha, 61, 24, 1]
+ - Change for 26: [Punjab, 202, 27, 13]->[Punjab, 219, 31, 16]
+ - Change for 27: [Rajasthan, 1229, 183, 11]->[Rajasthan, 1351, 183, 11]
+ - Change for 28: [Tamil Nadu, 1323, 283, 15]->[Tamil Nadu, 1372, 365, 15]
+ - Change for 29: [Telengana, 791, 186, 18]->[Telengana, 844, 186, 18]
+ - Change for 32: [West Bengal, 287, 55, 10]->[West Bengal, 310, 62, 12]
+```+----+-------+-----------------------------+------+------+------+
+|    |   Sno | State                       |   In |   Cd |   Dt |
+|----+-------+-----------------------------+------+------+------|
+|    |     1 | Andaman and Nicobar Islands |   14 |   11 |    0 |
+|    |     2 | Andhra Pradesh              |  603 |   42 |   15 |
+|    |     3 | Arunachal Pradesh           |    1 |    0 |    0 |
+|    |     4 | Assam                       |   35 |   12 |    1 |
+|    |     5 | Bihar                       |   86 |   37 |    2 |
+|    |     6 | Chandigarh                  |   23 |   10 |    0 |
+|    |     7 | Chhattisgarh                |   36 |   24 |    0 |
+|    |     8 | Delhi                       | 1893 |   72 |   43 |
+|    |     9 | Goa                         |    7 |    6 |    0 |
+|    |    10 | Gujarat                     | 1604 |   94 |   58 |
+|    |    11 | Haryana                     |  233 |   87 |    3 |
+|    |    12 | Himachal Pradesh            |   39 |   16 |    1 |
+|    |    13 | Jammu and Kashmir           |  341 |   51 |    5 |
+|    |    14 | Jharkhand                   |   35 |    0 |    2 |
+|    |    15 | Karnataka                   |  384 |  104 |   14 |
+|    |    16 | Kerala                      |  400 |  257 |    3 |
+|    |    17 | Ladakh                      |   18 |   14 |    0 |
+|    |    18 | Madhya Pradesh              | 1407 |  127 |   70 |
+|    |    19 | Maharashtra                 | 3651 |  365 |  211 |
+|    |    20 | Manipur                     |    2 |    1 |    0 |
+|    |    21 | Meghalaya                   |   11 |    0 |    1 |
+|    |    22 | Mizoram                     |    1 |    0 |    0 |
+|    |    23 | Nagaland#                   |    0 |    0 |    0 |
+|    |    24 | Odisha                      |   61 |   24 |    1 |
+|    |    25 | Puducherry                  |    7 |    3 |    0 |
+|    |    26 | Punjab                      |  219 |   31 |   16 |
+|    |    27 | Rajasthan                   | 1351 |  183 |   11 |
+|    |    28 | Tamil Nadu                  | 1372 |  365 |   15 |
+|    |    29 | Telengana                   |  844 |  186 |   18 |
+|    |    30 | Tripura                     |    2 |    1 |    0 |
+|    |    31 | Uttarakhand                 |   42 |    9 |    0 |
+|    |    32 | Uttar Pradesh               | 1084 |  108 |   17 |
+|    |    32 | West Bengal                 |  310 |   62 |   12 |
++----+-------+-----------------------------+------+------+------+``` to slack
+[2020-04-19 20:21:14,528] Starting new HTTPS connection (1): hooks.slack.com:443
+[2020-04-19 20:21:16,262] https://hooks.slack.com:443 "POST /services/T0122MJJT4J/B0122N1E60J/MyfSJcwqbtCjDacPQWYirtos HTTP/1.1" 200 22
