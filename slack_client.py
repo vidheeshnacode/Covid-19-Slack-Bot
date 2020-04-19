@@ -2,7 +2,7 @@ import requests
 import json
 import logging
 
-DEFAULT_SLACK_WEBHOOK = 'https://hooks.slack.com/services/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'
+DEFAULT_SLACK_WEBHOOK = 'YOUR WEBHOOK'
 
 HEADERS = {
     'Content-type': 'application/json'
