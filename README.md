@@ -8,7 +8,7 @@ Prerequisites are the following
 dependencies: tabulate, beautifulsoup, requests
 slack account and slack webhook (Follow steps from api.slack.com/messaging/webhooks)
 
-replace your slack webhook in slack_client.py in <YOUR WEBHOOK>
+replace your slack webhook in slack_client.py in 'YOUR WEBHOOK'
 
 
 The above program works and updated for the current (19th April 2020) layout of the webiste from which the data is fetched. 
